@@ -4,7 +4,6 @@
 - 🌱 Estudando Python, HTML e CSS.
 - 👯 Tenho como desejo a área de desenvolvimento front-end.
 - 📫 Você pode me contatar pelo email: gabrielmessias111@hotmail.com
-- 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielF55&show_icons=true&bg_color=00000000)
 
