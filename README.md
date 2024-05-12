@@ -1,6 +1,6 @@
 ### Olá, Mundo! Eu sou o Gabriel França!
 
-- 🔭 Atualmente fazendo curso de Análise e Desenvolvimento de Sistemas.
+- 🔭 Atualmente cursanso Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando Python, Java,  HTML e CSS.
 - 👯 Tenho como desejo a área de desenvolvimento front-end.
 - 📫 Você pode me contatar pelo email: gabrielmessias111@hotmail.com
