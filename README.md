@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou o Gabriel França!
 
 - 🔭 Atualmente cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando HTML, CSS, JavaScript, Django, Django Rest Framewwork e ReactJS.
+- 🌱 Estudando HTML, CSS, JavaScript, Django, Django Rest Framework e ReactJS.
 - 👯 Tenho como desejo a área de desenvolvimento full-stack.
 - 📫 Você pode me contatar pelo email: gabrielmessias111@hotmail.com
 
